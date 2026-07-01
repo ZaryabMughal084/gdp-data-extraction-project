@@ -9,7 +9,7 @@ The project extracts GDP data from a webpage, processes it using Pandas and NumP
 ## Technologies Used
 
 - Python
-- Pandas
+- Pandas 
 - NumPy
 
 ## Skills Demonstrated
