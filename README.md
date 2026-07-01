@@ -4,7 +4,7 @@
 
 This project was completed as part of the Coursera course **Python for Data Science, AI & Development**.
 
-The project extracts GDP data from a webpage using Pandas, processes the data, converts GDP values from Million USD to Billion USD, and exports the results to a CSV file.
+The project extracts GDP data from a webpage, processes it using Pandas and NumPy, converts GDP values from Million USD to Billion USD, and exports the final data to a CSV file.
 
 ## Technologies Used
 
@@ -12,15 +12,18 @@ The project extracts GDP data from a webpage using Pandas, processes the data, c
 - Pandas
 - NumPy
 
-## Files
-
-- `gdp-data-extraction-processing.ipynb` – Jupyter Notebook containing the project
-- `Largest_economies.csv` – Output dataset
-
 ## Skills Demonstrated
 
-- Reading HTML tables with Pandas
+- Reading HTML tables using Pandas
 - Data cleaning
 - DataFrame manipulation
 - Data transformation
 - Exporting data to CSV
+
+## Output
+
+The processed dataset is available as:
+
+```
+Largest_economies.csv
+```
